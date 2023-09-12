@@ -1,6 +1,6 @@
 # NestJS Monopay wrapper
 
-A [monopay](https://github.com/alitnk/monopay) wrapper for [NestJS](https://github.com/nestjs/nest).
+A [NestJS](https://github.com/nestjs/nest) wrapper for [monopay](https://github.com/alitnk/monopay).
 
 ## Installation
 
